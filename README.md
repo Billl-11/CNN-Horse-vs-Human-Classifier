@@ -3,7 +3,6 @@
 
 This repository contains a CNN model implemented using Tensorflow for classifying mushrooms as edible or poisonous. The classification is performed by calculating entropy and information gain based on various attributes of the mushrooms.
 
-<img src="https://github.com/Billl-11/Decision-Tree-From-Scratch/blob/main/edible_mushrooms.jpg" width="190" alt="edible mushrooms.jpg">
 
 The datasets used in this project are sourced from the [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning.](https://www.coursera.org/learn/introduction-tensorflow/home/welcome) The course, created by DeepLearning.AI
 
