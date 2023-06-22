@@ -15,11 +15,11 @@ The CNN model in this repository is implemented using Python and the TensorFlow 
 
 The CNN model architecture is as follows:
 
-Convolutional Layers: Convolutional layers apply filters to input images, extracting relevant features through convolutions. The filters learn various patterns and spatial representations.
+1. Convolutional Layers: Convolutional layers apply filters to input images, extracting relevant features through convolutions. The filters learn various patterns and spatial representations.
 
-Pooling Layers: Pooling layers reduce the spatial dimensions of the convolved features while retaining important information. Max pooling is typically used to downsample the features.
+2. Pooling Layers: Pooling layers reduce the spatial dimensions of the convolved features while retaining important information. Max pooling is typically used to downsample the features.
 
-Fully Connected Layers: Fully connected layers take the flattened output from the convolutional and pooling layers and perform classification based on learned features. These layers combine the extracted features to make predictions.
+3. Fully Connected Layers: Fully connected layers take the flattened output from the convolutional and pooling layers and perform classification based on learned features. These layers combine the extracted features to make predictions.
 
 ## Dataset Attribution:
 
