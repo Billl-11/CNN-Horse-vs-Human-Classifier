@@ -27,7 +27,7 @@ The datasets used in this project are sourced from the Coursera course [Introduc
 
 To access the datasets used in this project, please refer to the course. It is recommended to enroll in the course to gain a deeper understanding of the data and the concepts explored in this project.
 
-Note: Respect the terms of use and licensing restrictions associated with the datasets. 
+>Note: Respect the terms of use and licensing restrictions associated with the datasets. 
 
 If you have any questions or suggestions, please don't hesitate to reach out.
 
