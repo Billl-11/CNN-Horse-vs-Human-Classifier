@@ -1,8 +1,7 @@
 # CNN-Horse-vs-Human-Classifier
 **Convolutional Neural Network - Horse vs Human Classifier**
 
-This repository contains a CNN model implemented using Tensorflow for classifying mushrooms as edible or poisonous. The classification is performed by calculating entropy and information gain based on various attributes of the mushrooms.
-
+This repository contains a CNN model implemented using Tensorflow for classifying human or horse image. 
 
 The datasets used in this project are sourced from the [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning.](https://www.coursera.org/learn/introduction-tensorflow/home/welcome) The course, created by DeepLearning.AI
 
