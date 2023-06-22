@@ -23,7 +23,7 @@ The CNN model architecture is as follows:
 
 ## Dataset Attribution:
 
-The datasets used in this project are sourced from the Coursera course [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning.](https://www.coursera.org/learn/introduction-tensorflow/home/welcome). The course, created by DeepLearning.AI, provides comprehensive learning materials and practical exercises on CNN. The datasets are used here for educational purposes only, in accordance with the course's terms of use.
+The datasets used in this project are sourced from the Coursera course [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/home/welcome). The course, created by DeepLearning.AI, provides comprehensive learning materials and practical exercises on CNN. The datasets are used here for educational purposes only, in accordance with the course's terms of use.
 
 To access the datasets used in this project, please refer to the course. It is recommended to enroll in the course to gain a deeper understanding of the data and the concepts explored in this project.
 
