@@ -7,7 +7,7 @@ The datasets used in this project are sourced from the [Introduction to TensorFl
 
 ## Introduction
 
-The objective of this project is to implement a Convolutional Neural Network (CNN) model for classifying images of horses and humans. CNNs are a popular deep learning architecture for image classification tasks as they can effectively capture spatial hierarchies and patterns in images.
+The objective of this project is to implement a Convolutional Neural Network (CNN) model for classifying images of horses and humans. CNNs are a popular deep learning architecture for image classification tasks as they can effectively capture spatial hierarchies and patterns in images. In addition to the custom CNN architecture, this project incorporates transfer learning from the InceptionV3 model, allowing us to compare the performance of both approaches.
 
 ## CNN Model Architecture
 
