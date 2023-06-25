@@ -1,5 +1,5 @@
 # CNN-Horse-vs-Human-Classifier
-**Convolutional Neural Network - Horse vs Human Classifier**
+**Image Classification: Humans and Horses using CNN and Transfer Learning**
 
 This repository contains a CNN model implemented using Tensorflow for classifying human or horse image. 
 
