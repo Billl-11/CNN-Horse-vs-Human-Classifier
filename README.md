@@ -31,7 +31,7 @@ The transfer learning process involves the following steps:
 
 2. Define New Model: Set-up the model with InceptionV3 library, choosing specific layer for further processing, and then train new model.
 
-## Dataset Attribution:
+## Dataset Attribution
 
 The datasets used in this project are sourced from the Coursera course [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow/home/welcome). The course, created by DeepLearning.AI, provides comprehensive learning materials and practical exercises on CNN. The datasets are used here for educational purposes only, in accordance with the course's terms of use.
 
